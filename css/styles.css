@@ -1,0 +1,63 @@
+.contenedor {
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+}
+.centrar-imagen {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+.boton {
+    display: inline-block;
+    padding: 10px 20px;
+    margin: 10px;
+    background-color: #c1953c; 
+    color: white; 
+    text-decoration: none; 
+    cursor: pointer; 
+    font-size: 16px; 
+    border-radius: 5px; 
+            
+    
+
+}
+.boton1 {
+    display: inline-block;
+    padding: 10px 20px;
+    margin: 10px;
+    background-color: #c1953c; 
+    color: white; 
+    text-decoration: none;
+    cursor: pointer; 
+    font-size: 16px; 
+    border-radius: 5px; 
+            
+    
+
+}
+.boton2 {
+    display: inline-block;
+    padding: 10px 20px;
+    margin: 10px;
+    background-color: #c1953c; 
+    color: white; 
+    text-decoration: none;
+    cursor: pointer; 
+    font-size: 16px; 
+    border-radius: 5px; 
+
+}
+.boton3 {
+    display: inline-block;
+    padding: 10px 20px;
+    margin: 10px;
+    background-color: #c1953c; 
+    color: white; 
+    text-decoration: none;
+    cursor: pointer; 
+    font-size: 16px; 
+    border-radius: 5px; 
+
+}
